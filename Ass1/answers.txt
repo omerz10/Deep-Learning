@@ -1,0 +1,9 @@
+STUDENT={'name': 'Omer Zucker_Omer Wolf',
+         'ID': '200876548_307965988'}
+
+1. Yes, there is an option to get better accuracies. In the exercise we have used a non-linear model - MLP with 1 hidden layer so can get data which not seperated lineary. 
+In the log-linear model we got around 84-85% of accuracy. In the MLP model (with 1 hidden layer) we got around 86-87% of accuracy.
+
+2. By switching from letter-bigrams to letter-unigrams the best result we have got for the log-linear model was around 65% and for the MLP model was around 84%.
+
+3. For the XOR problem, we hav eneeded at least 100 iterations in order to be stable.
