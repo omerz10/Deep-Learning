@@ -11,11 +11,16 @@ how to install:
 
 python 3.7:
         https://www.python.org/downloads/release/python-372/
+
 pip3:
-        linux: https://askubuntu.com/questions/778052/installing-pip3-for-python3-on-ubuntu-16-04-lts-using-a-proxy
-        windows: https://stackoverflow.com/questions/41501636/how-to-install-pip3-on-windows
+
+linux: https://askubuntu.com/questions/778052/installing-pip3-for-python3-on-ubuntu-16-04-lts-using-a-proxy
+
+windows: https://stackoverflow.com/questions/41501636/how-to-install-pip3-on-windows
+
 pytorch:
         https://pytorch.org/
+
 
 pip3 install numpy
 pip3 install nltk
